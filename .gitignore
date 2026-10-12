@@ -29,3 +29,7 @@ support.js
 .thumbnail
 uploads/
 logo.png
+
+# Local-only docs
+CLAUDE.md
+CONTRIBUTING.md
